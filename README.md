@@ -89,26 +89,53 @@
 
 ---
 
-# 📊 LIVE CODING METRICS
+# 📊 COMPETITIVE PROGRAMMING PROGRESS
 
-### 🔥 GitHub
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arjunvats3042&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunvats3042&theme=tokyonight&hide_border=true"/>
-</p>
+### 🧪 LeetCode
 
-### 🧪 LeetCode Card
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/arjunvats3042?theme=dark&font=Fira%20Code&ext=activity"/>
+  <img src="https://leetcard.jacoblin.cool/arjunvats3042?theme=unicorn&font=Fira%20Code&ext=activity"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+### 🏁 Codeforces
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=arjunvats3042&theme=github_dark&force_username=true"/>
 </p>
+
+---
+
+### ⭐ CodeChef
+
+<p align="center">
+  <a href="https://www.codechef.com/users/arjun_3042">
+    <img src="https://img.shields.io/badge/CodeChef-3★%20|%201625-brown?style=for-the-badge&logo=codechef"/>
+  </a>
+</p>
+
+---
+
+### 🔥 GitHub Activity
+
+<p align="center">
+  <img src="https://github.com/arjunvats3042.png" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunvats3042&theme=github-dark"/>
+</p>
+
+---
+
+### 📌 Summary
+
+- 🟠 **LeetCode:** 600+ solved • 1672 rating  
+- 🔵 **Codeforces:** Pupil • strong contest history  
+- 🟤 **CodeChef:** 3★ • 1625 rating  
+- 🧠 Expert in DSA, Graphs, DP, System Design
+
 
 ---
 
